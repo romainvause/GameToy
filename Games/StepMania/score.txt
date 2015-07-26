@@ -1,0 +1,11 @@
+  DATE  | Heure | Niveau  | Score |
+
+31/05/15 14:51   Normal     18
+31/05/15 14:54   Moyen     4
+31/05/15 14:54   Difficile     28
+31/05/15 14:55   Normal     11
+31/05/15 15:19   Moyen     4
+31/05/15 17:45   Moyen     278
+02/06/15 12:16   Moyen     2
+02/06/15 12:17   Normal     9
+03/06/15 18:38   Difficile     0

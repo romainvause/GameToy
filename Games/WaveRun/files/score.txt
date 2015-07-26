@@ -1,0 +1,11 @@
+easy:407
+easy:417
+easy:564
+easy:605
+easy:2475
+easy:2341
+easy:1245
+easy:412
+easy:414
+easy:494
+hard:1113
